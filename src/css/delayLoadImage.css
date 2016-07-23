@@ -1,0 +1,5 @@
+.delayLoadImage {
+    background-image: url(./../img/loader.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+}
