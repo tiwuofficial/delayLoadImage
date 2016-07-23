@@ -1,0 +1,9 @@
+{
+    "name": "delayLoadImage.js",
+    "version": "1.0.0",
+    "main": "src/js/delayLoadImage.js",
+    "ignore": [
+        "demo",
+        "README.md",
+    ],
+}
