@@ -4,6 +4,6 @@
     "main": "src/js/delayLoadImage.js",
     "ignore": [
         "demo",
-        "README.md",
+        "README.md"
     ],
 }
