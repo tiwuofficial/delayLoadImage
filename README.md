@@ -45,3 +45,18 @@ Run DELAYLOADIMAGE.init() function after include delayLoadImage.js.
     DELAYLOADIMAGE.init();
 </script>
 ```
+
+### Custom the Library
+
+Example
+
+```html
+<script>
+    DELAYLOADIMAGE.init(function() {
+        console.log('success');
+    }, function() {
+        console.log('error');
+    });
+</script>
+```
+
